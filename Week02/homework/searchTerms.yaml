@@ -1,0 +1,7 @@
+---
+proxifier:
+  qqbytes: "QQ.*close.*"
+  qqopen: "QQ.exe.*open through proxy.*HTTPS"
+
+
+  
